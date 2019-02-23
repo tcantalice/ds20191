@@ -1,9 +1,6 @@
-import java.util.Scanner;
 import java.util.Random;
 
 public class MaxMatrix {
-
-    public static Scanner input = new Scanner(System.in);
 
     public static int[][] genMatrix(){
         int[][] matrix = new int[4][4];
